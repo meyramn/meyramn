@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meyramn
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning SwiftUI
 - 📫 How to reach me telegram: @meyramn
 
 <!---
